@@ -17,6 +17,7 @@
     <link href="BacklundTransformAnalytics.styles.css" rel="stylesheet" />
     <script src="javascript/blockly_compressed.js"></script>
     <script src="javascript/blocks_compressed.js"></script>
+    <script src="javascript/javascript_compressed.js"></script>
     <script src="javascript/msg/js/en.js"></script>
 </head>
 <body>
@@ -52,6 +53,7 @@
         <variables>
             <variable id="j/0+tehirnxDY{7BL^!">x</variable>
         </variables>
+     
         <block type="procedures_defreturn" id="NufS,~.L7tk~iNA(hYCO" x="-7" y="-1">
             <mutation>
                 <arg name="x" varid="j/0+tehirnxDY{7BL^!" />
@@ -324,6 +326,8 @@
         });
 
         Blockly.Xml.domToWorkspace(document.getElementById('defaultProgram'), workspace);
+        Blockly.JavaScript.valueToCode(document.getElementById('defaultProgram'), 'FROM', Blockly.JavaScript.ORDER_ADDITION)
+
 
         function evalProgram() {
             setOutput("");
