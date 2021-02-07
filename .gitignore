@@ -31,3 +31,23 @@ _ReSharper*/
 .vs/
 #Nuget packages folder
 packages/
+BacklundTransformAnalytics/obj/Debug/net5.0/ref/BacklundTransformAnalytics.dll
+BacklundTransformAnalytics/obj/Debug/net5.0/RazorDeclaration/Pages/Index.razor.g.cs
+BacklundTransformAnalytics/bin/Debug/net5.0/BacklundTransformAnalytics.dll
+BacklundTransformAnalytics/bin/Debug/net5.0/BacklundTransformAnalytics.pdb
+BacklundTransformAnalytics/bin/Debug/net5.0/BacklundTransformAnalytics.Views.dll
+BacklundTransformAnalytics/bin/Debug/net5.0/BacklundTransformAnalytics.Views.pdb
+BacklundTransformAnalytics/bin/Debug/net5.0/ref/BacklundTransformAnalytics.dll
+BacklundTransformAnalytics/obj/Debug/net5.0/BacklundTransformAnalytics.csprojAssemblyReference.cache
+BacklundTransformAnalytics/obj/Debug/net5.0/BacklundTransformAnalytics.dll
+BacklundTransformAnalytics/obj/Debug/net5.0/BacklundTransformAnalytics.pdb
+BacklundTransformAnalytics/obj/Debug/net5.0/BacklundTransformAnalytics.Views.dll
+BacklundTransformAnalytics/obj/Debug/net5.0/BacklundTransformAnalytics.Views.pdb
+BacklundTransformAnalytics/obj/Debug/net5.0/Razor/Pages/_Host.cshtml.g.cs
+BacklundTransformAnalytics/obj/Debug/net5.0/Razor/Pages/Counter.razor.g.cs
+BacklundTransformAnalytics/obj/Debug/net5.0/Razor/Pages/Index.razor.g.cs
+BacklundTransformAnalytics/obj/Debug/net5.0/Razor/Shared/MainLayout.razor.g.cs
+BacklundTransformAnalytics/obj/Debug/net5.0/RazorDeclaration/BacklundTransformAnalytics.dll
+BacklundTransformAnalytics/obj/Debug/net5.0/RazorDeclaration/BacklundTransformAnalytics.pdb
+BacklundTransformAnalytics/obj/Debug/net5.0/RazorDeclaration/Pages/Counter.razor.g.cs
+BacklundTransformAnalytics/obj/Debug/net5.0/RazorDeclaration/Pages/Index.razor.g.cs
